@@ -1,0 +1,12 @@
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+D:\karan\assignment 4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
